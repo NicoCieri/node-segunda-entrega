@@ -12,6 +12,10 @@ Para correr el proyecto es necesario crear el archivo `.env` y setear las creden
 - [localhost:8080/products](http://localhost:8080/products): Listado de productos.
 - `localhost:8080/carts/:cartId`: Listado de items del cart seleccionado.
 
+
+https://github.com/NicoCieri/node-segunda-entrega/assets/14900103/20e188b2-dde1-4b9b-89fc-a7a0b33c483e
+
+
 ## Endpoints
 
 ### Products
